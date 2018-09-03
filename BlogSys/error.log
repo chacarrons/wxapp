@@ -1,0 +1,728 @@
+2018-06-14 16:44:00,853 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [GET]
+Traceback (most recent call last):
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-14 16:45:35,218 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [GET]
+Traceback (most recent call last):
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-14 16:47:37,800 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [GET]
+Traceback (most recent call last):
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-14 16:47:44,666 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [GET]
+Traceback (most recent call last):
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-14 16:50:25,014 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [GET]
+Traceback (most recent call last):
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-14 16:53:29,451 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [GET]
+Traceback (most recent call last):
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-14 17:02:26,708 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [GET]
+Traceback (most recent call last):
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-14 17:08:00,448 - ERROR - homeViews.py - register - 32 - __init__() takes 1 positional argument but 4 were given
+2018-06-14 17:08:11,855 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-14 17:11:17,917 - ERROR - homeViews.py - register - 32 - 'DefaultMeta' object is not subscriptable
+2018-06-14 17:23:33,369 - ERROR - homeViews.py - register - 32 - 'DefaultMeta' object is not subscriptable
+2018-06-14 17:23:37,902 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-14 17:23:44,573 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-14 17:34:40,855 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "D:\MyPythonCode\BlogSys\venv\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-15 14:26:28,182 - ERROR - homeViews.py - register - 34 - (_mysql_exceptions.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)") (Background on this error at: http://sqlalche.me/e/e3q8)
+2018-06-15 14:26:28,182 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-15 15:21:24,286 - ERROR - homeViews.py - register - 35 - (_mysql_exceptions.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)") (Background on this error at: http://sqlalche.me/e/e3q8)
+2018-06-15 15:21:24,286 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-15 15:34:11,888 - ERROR - homeViews.py - register - 35 - (_mysql_exceptions.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)") (Background on this error at: http://sqlalche.me/e/e3q8)
+2018-06-15 15:34:11,889 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-15 15:35:22,037 - ERROR - homeViews.py - register - 35 - (_mysql_exceptions.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)") (Background on this error at: http://sqlalche.me/e/e3q8)
+2018-06-15 15:35:22,038 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-15 15:38:11,275 - ERROR - homeViews.py - register - 35 - (_mysql_exceptions.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)") (Background on this error at: http://sqlalche.me/e/e3q8)
+2018-06-15 15:38:11,276 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-15 15:38:20,221 - ERROR - homeViews.py - register - 35 - (_mysql_exceptions.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)") (Background on this error at: http://sqlalche.me/e/e3q8)
+2018-06-15 15:38:20,221 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-15 15:49:18,328 - ERROR - homeViews.py - register - 35 - (_mysql_exceptions.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)") (Background on this error at: http://sqlalche.me/e/e3q8)
+2018-06-15 15:49:18,328 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1816, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1831, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1957, in make_response
+    'The view function did not return a valid response. The'
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2018-06-15 15:51:40,482 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2158, in _wrap_pool_connect
+    return fn()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 403, in connect
+    return _ConnectionFairy._checkout(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 788, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 532, in checkout
+    rec = pool._do_get()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1193, in _do_get
+    self._dec_overflow()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\langhelpers.py", line 66, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 187, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1190, in _do_get
+    return self._create_connection()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 350, in _create_connection
+    return _ConnectionRecord(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 477, in __init__
+    self.__connect(first_connect_check=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 671, in __connect
+    connection = pool._invoke_creator(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\strategies.py", line 106, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\default.py", line 410, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+_mysql_exceptions.OperationalError: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Administrator\Desktop\BlogSys\frontEnd\homeViews.py", line 20, in register
+    db.create_all()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask_sqlalchemy\__init__.py", line 963, in create_all
+    self._execute_for_all_tables(app, bind, 'create_all')
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask_sqlalchemy\__init__.py", line 955, in _execute_for_all_tables
+    op(bind=self.get_engine(app, bind), **extra)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\sql\schema.py", line 4004, in create_all
+    tables=tables)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1939, in _run_visitor
+    with self._optional_conn_ctx_manager(connection) as conn:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\contextlib.py", line 81, in __enter__
+    return next(self.gen)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1932, in _optional_conn_ctx_manager
+    with self.contextual_connect() as conn:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2123, in contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2162, in _wrap_pool_connect
+    e, dialect, self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1476, in _handle_dbapi_exception_noconnection
+    exc_info
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 203, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 186, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2158, in _wrap_pool_connect
+    return fn()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 403, in connect
+    return _ConnectionFairy._checkout(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 788, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 532, in checkout
+    rec = pool._do_get()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1193, in _do_get
+    self._dec_overflow()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\langhelpers.py", line 66, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 187, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1190, in _do_get
+    return self._create_connection()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 350, in _create_connection
+    return _ConnectionRecord(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 477, in __init__
+    self.__connect(first_connect_check=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 671, in __connect
+    connection = pool._invoke_creator(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\strategies.py", line 106, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\default.py", line 410, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+sqlalchemy.exc.OperationalError: (_mysql_exceptions.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)") (Background on this error at: http://sqlalche.me/e/e3q8)
+2018-06-15 15:51:43,539 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2158, in _wrap_pool_connect
+    return fn()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 403, in connect
+    return _ConnectionFairy._checkout(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 788, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 532, in checkout
+    rec = pool._do_get()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1193, in _do_get
+    self._dec_overflow()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\langhelpers.py", line 66, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 187, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1190, in _do_get
+    return self._create_connection()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 350, in _create_connection
+    return _ConnectionRecord(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 477, in __init__
+    self.__connect(first_connect_check=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 671, in __connect
+    connection = pool._invoke_creator(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\strategies.py", line 106, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\default.py", line 410, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+_mysql_exceptions.OperationalError: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Administrator\Desktop\BlogSys\frontEnd\homeViews.py", line 20, in register
+    db.create_all()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask_sqlalchemy\__init__.py", line 963, in create_all
+    self._execute_for_all_tables(app, bind, 'create_all')
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask_sqlalchemy\__init__.py", line 955, in _execute_for_all_tables
+    op(bind=self.get_engine(app, bind), **extra)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\sql\schema.py", line 4004, in create_all
+    tables=tables)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1939, in _run_visitor
+    with self._optional_conn_ctx_manager(connection) as conn:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\contextlib.py", line 81, in __enter__
+    return next(self.gen)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1932, in _optional_conn_ctx_manager
+    with self.contextual_connect() as conn:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2123, in contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2162, in _wrap_pool_connect
+    e, dialect, self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1476, in _handle_dbapi_exception_noconnection
+    exc_info
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 203, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 186, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2158, in _wrap_pool_connect
+    return fn()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 403, in connect
+    return _ConnectionFairy._checkout(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 788, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 532, in checkout
+    rec = pool._do_get()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1193, in _do_get
+    self._dec_overflow()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\langhelpers.py", line 66, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 187, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1190, in _do_get
+    return self._create_connection()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 350, in _create_connection
+    return _ConnectionRecord(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 477, in __init__
+    self.__connect(first_connect_check=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 671, in __connect
+    connection = pool._invoke_creator(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\strategies.py", line 106, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\default.py", line 410, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+sqlalchemy.exc.OperationalError: (_mysql_exceptions.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)") (Background on this error at: http://sqlalche.me/e/e3q8)
+2018-06-15 15:51:46,650 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2158, in _wrap_pool_connect
+    return fn()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 403, in connect
+    return _ConnectionFairy._checkout(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 788, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 532, in checkout
+    rec = pool._do_get()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1193, in _do_get
+    self._dec_overflow()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\langhelpers.py", line 66, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 187, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1190, in _do_get
+    return self._create_connection()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 350, in _create_connection
+    return _ConnectionRecord(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 477, in __init__
+    self.__connect(first_connect_check=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 671, in __connect
+    connection = pool._invoke_creator(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\strategies.py", line 106, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\default.py", line 410, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+_mysql_exceptions.OperationalError: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Administrator\Desktop\BlogSys\frontEnd\homeViews.py", line 20, in register
+    db.create_all()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask_sqlalchemy\__init__.py", line 963, in create_all
+    self._execute_for_all_tables(app, bind, 'create_all')
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask_sqlalchemy\__init__.py", line 955, in _execute_for_all_tables
+    op(bind=self.get_engine(app, bind), **extra)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\sql\schema.py", line 4004, in create_all
+    tables=tables)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1939, in _run_visitor
+    with self._optional_conn_ctx_manager(connection) as conn:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\contextlib.py", line 81, in __enter__
+    return next(self.gen)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1932, in _optional_conn_ctx_manager
+    with self.contextual_connect() as conn:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2123, in contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2162, in _wrap_pool_connect
+    e, dialect, self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1476, in _handle_dbapi_exception_noconnection
+    exc_info
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 203, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 186, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2158, in _wrap_pool_connect
+    return fn()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 403, in connect
+    return _ConnectionFairy._checkout(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 788, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 532, in checkout
+    rec = pool._do_get()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1193, in _do_get
+    self._dec_overflow()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\langhelpers.py", line 66, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 187, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1190, in _do_get
+    return self._create_connection()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 350, in _create_connection
+    return _ConnectionRecord(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 477, in __init__
+    self.__connect(first_connect_check=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 671, in __connect
+    connection = pool._invoke_creator(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\strategies.py", line 106, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\default.py", line 410, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+sqlalchemy.exc.OperationalError: (_mysql_exceptions.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)") (Background on this error at: http://sqlalche.me/e/e3q8)
+2018-06-15 15:52:07,337 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2158, in _wrap_pool_connect
+    return fn()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 403, in connect
+    return _ConnectionFairy._checkout(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 788, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 532, in checkout
+    rec = pool._do_get()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1193, in _do_get
+    self._dec_overflow()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\langhelpers.py", line 66, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 187, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1190, in _do_get
+    return self._create_connection()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 350, in _create_connection
+    return _ConnectionRecord(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 477, in __init__
+    self.__connect(first_connect_check=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 671, in __connect
+    connection = pool._invoke_creator(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\strategies.py", line 106, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\default.py", line 410, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+_mysql_exceptions.OperationalError: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Administrator\Desktop\BlogSys\frontEnd\homeViews.py", line 20, in register
+    db.create_all()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask_sqlalchemy\__init__.py", line 963, in create_all
+    self._execute_for_all_tables(app, bind, 'create_all')
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask_sqlalchemy\__init__.py", line 955, in _execute_for_all_tables
+    op(bind=self.get_engine(app, bind), **extra)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\sql\schema.py", line 4004, in create_all
+    tables=tables)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1939, in _run_visitor
+    with self._optional_conn_ctx_manager(connection) as conn:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\contextlib.py", line 81, in __enter__
+    return next(self.gen)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1932, in _optional_conn_ctx_manager
+    with self.contextual_connect() as conn:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2123, in contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2162, in _wrap_pool_connect
+    e, dialect, self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1476, in _handle_dbapi_exception_noconnection
+    exc_info
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 203, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 186, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2158, in _wrap_pool_connect
+    return fn()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 403, in connect
+    return _ConnectionFairy._checkout(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 788, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 532, in checkout
+    rec = pool._do_get()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1193, in _do_get
+    self._dec_overflow()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\langhelpers.py", line 66, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 187, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1190, in _do_get
+    return self._create_connection()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 350, in _create_connection
+    return _ConnectionRecord(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 477, in __init__
+    self.__connect(first_connect_check=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 671, in __connect
+    connection = pool._invoke_creator(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\strategies.py", line 106, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\default.py", line 410, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+sqlalchemy.exc.OperationalError: (_mysql_exceptions.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)") (Background on this error at: http://sqlalche.me/e/e3q8)
+2018-06-15 15:52:10,192 - ERROR - app.py - log_exception - 1761 - Exception on /home/register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2158, in _wrap_pool_connect
+    return fn()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 403, in connect
+    return _ConnectionFairy._checkout(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 788, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 532, in checkout
+    rec = pool._do_get()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1193, in _do_get
+    self._dec_overflow()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\langhelpers.py", line 66, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 187, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1190, in _do_get
+    return self._create_connection()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 350, in _create_connection
+    return _ConnectionRecord(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 477, in __init__
+    self.__connect(first_connect_check=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 671, in __connect
+    connection = pool._invoke_creator(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\strategies.py", line 106, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\default.py", line 410, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+_mysql_exceptions.OperationalError: (1045, "Access denied for user 'root'@'localhost' (using password: YES)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Administrator\Desktop\BlogSys\frontEnd\homeViews.py", line 20, in register
+    db.create_all()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask_sqlalchemy\__init__.py", line 963, in create_all
+    self._execute_for_all_tables(app, bind, 'create_all')
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\flask_sqlalchemy\__init__.py", line 955, in _execute_for_all_tables
+    op(bind=self.get_engine(app, bind), **extra)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\sql\schema.py", line 4004, in create_all
+    tables=tables)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1939, in _run_visitor
+    with self._optional_conn_ctx_manager(connection) as conn:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\contextlib.py", line 81, in __enter__
+    return next(self.gen)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1932, in _optional_conn_ctx_manager
+    with self.contextual_connect() as conn:
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2123, in contextual_connect
+    self._wrap_pool_connect(self.pool.connect, None),
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2162, in _wrap_pool_connect
+    e, dialect, self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 1476, in _handle_dbapi_exception_noconnection
+    exc_info
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 203, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 186, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\base.py", line 2158, in _wrap_pool_connect
+    return fn()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 403, in connect
+    return _ConnectionFairy._checkout(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 788, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 532, in checkout
+    rec = pool._do_get()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1193, in _do_get
+    self._dec_overflow()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\langhelpers.py", line 66, in __exit__
+    compat.reraise(exc_type, exc_value, exc_tb)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\util\compat.py", line 187, in reraise
+    raise value
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 1190, in _do_get
+    return self._create_connection()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 350, in _create_connection
+    return _ConnectionRecord(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 477, in __init__
+    self.__connect(first_connect_check=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\pool.py", line 671, in __connect
+    connection = pool._invoke_creator(self)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\strategies.py", line 106, in connect
+    return dialect.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\sqlalchemy\engine\default.py", line 410, in connect
+    return self.dbapi.connect(*cargs, **cparams)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36\lib\site-packages\MySQLdb\connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+sqlalchemy.exc.OperationalError: (_mysql_exceptions.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: YES)") (Background on this error at: http://sqlalche.me/e/e3q8)
